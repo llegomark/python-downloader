@@ -1,0 +1,14 @@
+[files]
+input = urls.txt
+
+[folders]
+downloads = C:\Users\markllego\Downloads\
+
+[settings]
+max_workers = 10
+retry_count = 3
+retry_delay = 5
+
+[network]
+connect_timeout = 30
+read_timeout = 180
